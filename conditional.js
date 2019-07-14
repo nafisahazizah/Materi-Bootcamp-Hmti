@@ -30,9 +30,9 @@ if (1 != 1) {
 
 //5. if bersarang
 if (1 > 0) {
-	console.log('ternyata benar');
+	console.log('ternyata benar ');
 	if (2 > 1) {
-		console.log('2 lebih dari 1');
+		console.log('2 lebih dari dia');
 	if (3 > 2) {
 		if (4 > 3) {
 			if (5 > 4) {
