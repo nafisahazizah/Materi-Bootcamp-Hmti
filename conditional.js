@@ -30,7 +30,7 @@ if (1 != 1) {
 
 //5. if bersarang
 if (1 > 0) {
-	console.log('ternyata benar');
+	console.log('ternyata benar chelsi jomblo');
 	if (2 > 1) {
 		console.log('2 lebih dari 1');
 	if (3 > 2) {
@@ -53,3 +53,4 @@ console.log('yang 2 > 1 bisa jadi salah');
 //console.log('apakah Sama ? ', 1 === '1');
 //1 === '1' //false
 //1 == '1' //true
+
